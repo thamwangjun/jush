@@ -5,6 +5,7 @@ const LISTS = [
   "../data/generic.txt",
   "../data/third-party.txt",
   "../data/site-specific.txt",
+  "../data/stevenblack-hosts-1684574407-adguard.txt",
 ];
 
 const IGNORE_LIST = "../data/ignored.txt";
